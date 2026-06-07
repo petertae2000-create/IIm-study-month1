@@ -1,2 +1,6 @@
-# LLM Study Month1
-Embedding . Transformer . RAG 4-week study joiurney
+## Weeks
+- Week 1: Embedding
+- Week 2: Transformer
+- Week 3: RAG
+- Week 4: Advanced
+- 
